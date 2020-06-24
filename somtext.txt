@@ -1,3 +1,7 @@
 hello git from notepad
 edit from MinhDoan
+
 DUc cung sua o day thi se co conflic
+
+commit "Hom Nay Troi Rat Dep"
+
