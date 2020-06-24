@@ -1,2 +1,3 @@
 hello git from notepad
 edit from MinhDoan
+commit "Hom Nay Troi Rat Dep"
